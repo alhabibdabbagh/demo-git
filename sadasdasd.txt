@@ -1,0 +1,3 @@
+[29/6 08:29] Habib: Projeyi  kurması  , çalıştırması , incelemesi ve github komutları intellij ile kullanılması
+[29/6 08:34] Habib: Projeyi relationships a ve groovy hybris script language bakıldı
+[29/6 08:36] Habib: Cupp extension ve bana atılan işi bakıldı
